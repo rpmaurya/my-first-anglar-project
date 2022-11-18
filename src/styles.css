@@ -1,0 +1,5 @@
+/* You can add global styles to this file, and also import other style files */
+.ant-checkbox-checked .ant-checkbox-inner {
+    background-color: #D1BCA1 !important;
+    border-color: #D1BCA1 !important;
+  }

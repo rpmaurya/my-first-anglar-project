@@ -1,0 +1,56 @@
+
+h1{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  text-align: center;
+  font: 3.5em sans-serif;
+}
+h2{
+  text-align: center;
+  font-size: 2.5em;
+  font-weight: bold;
+  
+}
+.inputbox{
+  height: 55px;
+  
+}
+.login-form {
+    max-width: 400px;
+  }
+
+  .login-form-margin {
+    margin-bottom: 16px;
+  }
+ 
+.eyeicon{
+  margin-top: 10px;
+}
+  .login-form-forgot {
+    font-family: open sans-serif;
+    font-size: 16px;
+    color: black;
+    font-weight: 700;
+    float: right;
+  }
+
+  .login-form-button {
+    font-family: open sans-serif;
+    font-size: 16px;
+    width: 100%;
+    background-color: #d1bca1;
+    border-radius: 5px;
+    font-weight: 700;
+  }
+
+  .box{
+    height:100vh ;
+    background-image: url(http://54.201.160.69:3229/HD.a48466435cca0f3e.svg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+
+
